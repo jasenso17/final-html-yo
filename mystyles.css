@@ -1,0 +1,79 @@
+body{
+color: blue;
+background-color: rgb(80,80,80);
+
+}
+
+#hText{
+color: rgb(300,200,1);
+margin: auto;
+text-align: center;
+
+}
+
+.bP{
+color: white;
+
+}
+	
+#wDiv{
+width:906px;
+height:800px;
+border:solid black 3px;
+background-color: pink;
+margin: auto;
+}
+
+#hDiv{
+width:900px;
+height:100px;
+border:solid black 3px;
+background-color: rgb(30,20,100);
+margin: auto
+}
+
+#nDiv{
+width:900px;
+height:55px;
+border:solid black 3px;
+background-color: rgb(300,200,1);
+margin: auto
+}
+
+#bDiv{
+width:900px;
+height:550px;
+border:solid black 3px;
+background-color: rgb(30,20,100);
+margin: auto
+}
+
+#cDiv{
+width:900px;
+height:550px;
+border:solid black 3px;
+background-color: white;
+margin: auto
+}
+
+.buttDiv{
+width:150px;
+height:40px;
+border:solid black 1px;
+background-color: white;
+float: left;
+margin: 10px;
+text-align: center;
+
+}
+
+#fDiv{
+width:900px;
+height:76px;
+border:solid rgb(80, 80, 80) 3px;
+background-color: rgb(30,20,100);
+float: right;
+margin: auto
+}
+
+}
